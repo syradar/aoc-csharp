@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc-csharp", "aoc-csharp\aoc-csharp.csproj", "{CDB336C0-0E9D-48CF-A6AF-4A3739DD9764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc-csharp-test", "aoc-csharp-test\aoc-csharp-test.csproj", "{653EF355-7D67-4EA0-9F2F-BD97A6C2C6DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc-csharp-utils", "aoc-csharp-utils\aoc-csharp-utils.csproj", "{CD5E4FD5-84E4-4DF6-8CEF-804E0B8C5475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB336C0-0E9D-48CF-A6AF-4A3739DD9764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB336C0-0E9D-48CF-A6AF-4A3739DD9764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB336C0-0E9D-48CF-A6AF-4A3739DD9764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB336C0-0E9D-48CF-A6AF-4A3739DD9764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653EF355-7D67-4EA0-9F2F-BD97A6C2C6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653EF355-7D67-4EA0-9F2F-BD97A6C2C6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653EF355-7D67-4EA0-9F2F-BD97A6C2C6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653EF355-7D67-4EA0-9F2F-BD97A6C2C6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5E4FD5-84E4-4DF6-8CEF-804E0B8C5475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5E4FD5-84E4-4DF6-8CEF-804E0B8C5475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5E4FD5-84E4-4DF6-8CEF-804E0B8C5475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5E4FD5-84E4-4DF6-8CEF-804E0B8C5475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

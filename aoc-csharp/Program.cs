@@ -5,6 +5,6 @@ using aoc_csharp_utils;
 
 Console.WriteLine("Hello, World!");
 
-var problem = new Day1B(Utils.GetProblemInputs("Day1A"));
+var problem = new Day2A(Utils.GetProblemInputStrings("Day2A"));
 
 Console.WriteLine(problem.Solve());
